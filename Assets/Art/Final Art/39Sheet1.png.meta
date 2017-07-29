@@ -13,6 +13,36 @@ TextureImporter:
     21300012: star7
     21300014: star8
     21300016: star9
+    21300018: playership60_000
+    21300020: playership60_001
+    21300022: playership60_002
+    21300024: playership60_003
+    21300026: playership60_004
+    21300028: playership60_005
+    21300030: playership60_006
+    21300032: playership60_007
+    21300034: playership60_008
+    21300036: playership60_009
+    21300038: playership60_010
+    21300040: playership60_011
+    21300042: playership60_012
+    21300044: playership60_013
+    21300046: playership60_014
+    21300048: playership60_015
+    21300050: playership60_016
+    21300052: playership60_017
+    21300054: playership60_018
+    21300056: playership60_019
+    21300058: playership60_020
+    21300060: playership60_021
+    21300062: playership60_022
+    21300064: playership60_023
+    21300066: playership60_024
+    21300068: playership60_025
+    21300070: playership60_026
+    21300072: playership60_027
+    21300074: playership60_028
+    21300076: playership60_029
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -71,11 +101,401 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+      name: playership60_000
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 437
+        width: 188
+        height: 115
+      alignment: 9
+      pivot: {x: 0.45212767, y: 0.5043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_001
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 554
+        width: 190
+        height: 115
+      alignment: 9
+      pivot: {x: 0.45789474, y: 0.5043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_002
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 908
+        width: 201
+        height: 115
+      alignment: 9
+      pivot: {x: 0.48756218, y: 0.5043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_003
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 907
+        width: 201
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48756218, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_004
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 907
+        width: 199
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48241207, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_005
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 907
+        width: 202
+        height: 116
+      alignment: 9
+      pivot: {x: 0.490099, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 907
+        width: 206
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_007
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 790
+        width: 191
+        height: 116
+      alignment: 9
+      pivot: {x: 0.460733, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_008
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 789
+        width: 191
+        height: 116
+      alignment: 9
+      pivot: {x: 0.460733, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 789
+        width: 191
+        height: 116
+      alignment: 9
+      pivot: {x: 0.460733, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_010
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 789
+        width: 191
+        height: 116
+      alignment: 9
+      pivot: {x: 0.460733, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_011
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 789
+        width: 191
+        height: 116
+      alignment: 9
+      pivot: {x: 0.460733, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_012
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 672
+        width: 191
+        height: 116
+      alignment: 9
+      pivot: {x: 0.460733, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_013
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 671
+        width: 191
+        height: 116
+      alignment: 9
+      pivot: {x: 0.460733, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 671
+        width: 191
+        height: 116
+      alignment: 9
+      pivot: {x: 0.460733, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 317
+        width: 189
+        height: 116
+      alignment: 9
+      pivot: {x: 0.45502645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 553
+        width: 190
+        height: 116
+      alignment: 9
+      pivot: {x: 0.45789474, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_017
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 554
+        width: 190
+        height: 116
+      alignment: 9
+      pivot: {x: 0.45789474, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 189
+        height: 116
+      alignment: 9
+      pivot: {x: 0.45502645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_019
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 437
+        width: 190
+        height: 116
+      alignment: 9
+      pivot: {x: 0.45789474, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 435
+        width: 190
+        height: 116
+      alignment: 9
+      pivot: {x: 0.45789474, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 189
+        height: 116
+      alignment: 9
+      pivot: {x: 0.45502645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_022
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 554
+        width: 190
+        height: 116
+      alignment: 9
+      pivot: {x: 0.45789474, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_023
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 317
+        width: 189
+        height: 116
+      alignment: 9
+      pivot: {x: 0.45502645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_024
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 199
+        width: 189
+        height: 116
+      alignment: 9
+      pivot: {x: 0.45502645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_025
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 672
+        width: 191
+        height: 115
+      alignment: 9
+      pivot: {x: 0.460733, y: 0.5043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_026
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 672
+        width: 191
+        height: 115
+      alignment: 9
+      pivot: {x: 0.460733, y: 0.5043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_027
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 82
+        width: 190
+        height: 115
+      alignment: 9
+      pivot: {x: 0.45789474, y: 0.5043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_028
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 320
+        width: 190
+        height: 115
+      alignment: 9
+      pivot: {x: 0.45789474, y: 0.5043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playership60_029
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 555
+        width: 191
+        height: 115
+      alignment: 9
+      pivot: {x: 0.460733, y: 0.5043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
       name: star1
       rect:
         serializedVersion: 2
-        x: 46
-        y: 47
+        x: 1002
+        y: 831
         width: 12
         height: 12
       alignment: 0
@@ -87,8 +507,8 @@ TextureImporter:
       name: star2
       rect:
         serializedVersion: 2
-        x: 46
-        y: 61
+        x: 1002
+        y: 845
         width: 12
         height: 13
       alignment: 0
@@ -100,8 +520,8 @@ TextureImporter:
       name: star3
       rect:
         serializedVersion: 2
-        x: 1
-        y: 92
+        x: 580
+        y: 870
         width: 29
         height: 35
       alignment: 0
@@ -113,8 +533,8 @@ TextureImporter:
       name: star4
       rect:
         serializedVersion: 2
-        x: 1
-        y: 73
+        x: 580
+        y: 798
         width: 22
         height: 17
       alignment: 0
@@ -126,8 +546,8 @@ TextureImporter:
       name: star5
       rect:
         serializedVersion: 2
-        x: 1
-        y: 41
+        x: 1002
+        y: 821
         width: 9
         height: 8
       alignment: 0
@@ -139,8 +559,8 @@ TextureImporter:
       name: star6
       rect:
         serializedVersion: 2
-        x: 1
-        y: 51
+        x: 1002
+        y: 860
         width: 19
         height: 20
       alignment: 0
@@ -152,8 +572,8 @@ TextureImporter:
       name: star7
       rect:
         serializedVersion: 2
-        x: 32
-        y: 103
+        x: 580
+        y: 844
         width: 26
         height: 24
       alignment: 0
@@ -165,8 +585,8 @@ TextureImporter:
       name: star8
       rect:
         serializedVersion: 2
-        x: 32
-        y: 76
+        x: 580
+        y: 817
         width: 25
         height: 25
       alignment: 0
@@ -178,8 +598,8 @@ TextureImporter:
       name: star9
       rect:
         serializedVersion: 2
-        x: 25
-        y: 51
+        x: 1002
+        y: 882
         width: 19
         height: 23
       alignment: 0

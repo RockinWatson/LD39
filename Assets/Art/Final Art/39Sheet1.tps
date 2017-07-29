@@ -199,6 +199,48 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_000.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_001.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_002.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_003.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_004.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_005.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_006.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_007.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_008.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_009.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_010.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_011.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_012.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_013.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_014.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_015.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_016.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_017.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_018.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_019.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_020.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_021.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_022.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_023.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_024.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_025.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_026.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_027.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_028.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_029.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>52,29,103,58</rect>
+                <key>scale9Paddings</key>
+                <rect>52,29,103,58</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/star1.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -328,6 +370,36 @@
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/star7.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/star8.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/star9.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_000.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_001.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_002.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_003.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_004.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_005.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_006.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_007.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_008.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_009.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_010.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_011.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_012.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_013.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_014.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_015.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_016.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_017.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_018.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_019.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_020.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_021.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_022.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_023.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_024.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_025.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_026.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_027.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_028.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_029.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
