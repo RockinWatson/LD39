@@ -51,6 +51,14 @@ public class MusicSource : MonoBehaviour
         {
             StartMusic();
         }
+        if (Input.GetKeyDown(KeyCode.F9))
+        {
+            PitchShiftDown();
+        }
+        if (Input.GetKeyDown(KeyCode.F10))
+        {
+            PitchShiftUp();
+        }
 
     }
 
@@ -166,5 +174,25 @@ public class MusicSource : MonoBehaviour
     {
         audio.mute = !audio.mute;
         Debug.Log("Mute Toggled");
+    }
+
+    public void PitchShiftDown()
+    {
+        Debug.Log("Pitch Shifting Music Down.");
+        Debug.Log(pad.pitch);
+        pad.pitch -= .1f;
+        lead.pitch -= .1f;
+        bass.pitch -= .1f;
+        drums.pitch -= .1f;
+    }
+
+    public void PitchShiftUp()
+    {
+            Debug.Log("Pitch Shifting Music Up.");
+            Debug.Log(pad.pitch);
+            pad.pitch += .1f;
+            lead.pitch += .1f;
+            bass.pitch += .1f;
+            drums.pitch += .1f;
     }
 }
