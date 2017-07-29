@@ -2,14 +2,17 @@
 
 public class Background : MonoBehaviour {
 
-	void Update () {
+    public float offSpeed = 10f;
+
+    void Update () {
+
         MeshRenderer mr = GetComponent<MeshRenderer>();
 
         Material mat = mr.material;
 
         Vector2 offset = mat.mainTextureOffset;
 
-        offset.x += Time.deltaTime/10f;
+        offset.x += Time.deltaTime / offSpeed;
 
         mat.mainTextureOffset = offset;
 	}
