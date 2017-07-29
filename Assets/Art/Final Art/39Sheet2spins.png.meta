@@ -1,0 +1,2168 @@
+fileFormatVersion: 2
+guid: 7aba9b94a64c12641b1f78ebfa7613b5
+timeCreated: 1501345814
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: star1_000
+    21300002: star1_001
+    21300004: star1_002
+    21300006: star1_003
+    21300008: star1_004
+    21300010: star1_005
+    21300012: star1_006
+    21300014: star1_007
+    21300016: star1_008
+    21300018: star1_009
+    21300020: star1_010
+    21300022: star1_011
+    21300024: star1_012
+    21300026: star1_013
+    21300028: star1_014
+    21300030: star1_015
+    21300032: star1_016
+    21300034: star1_017
+    21300036: star1_018
+    21300038: star1_019
+    21300040: star1_020
+    21300042: star1_021
+    21300044: star1_022
+    21300046: star1_023
+    21300048: star1_024
+    21300050: star1_025
+    21300052: star1_026
+    21300054: star1_027
+    21300056: star1_028
+    21300058: star1_029
+    21300060: star2_000
+    21300062: star2_001
+    21300064: star2_002
+    21300066: star2_003
+    21300068: star2_004
+    21300070: star2_005
+    21300072: star2_006
+    21300074: star2_007
+    21300076: star2_008
+    21300078: star2_009
+    21300080: star2_010
+    21300082: star2_011
+    21300084: star2_012
+    21300086: star2_013
+    21300088: star2_014
+    21300090: star2_015
+    21300092: star2_016
+    21300094: star2_017
+    21300096: star2_018
+    21300098: star2_019
+    21300100: star2_020
+    21300102: star2_021
+    21300104: star2_022
+    21300106: star2_023
+    21300108: star2_024
+    21300110: star2_025
+    21300112: star2_026
+    21300114: star2_027
+    21300116: star2_028
+    21300118: star2_029
+    21300120: star3_000
+    21300122: star3_001
+    21300124: star3_002
+    21300126: star3_003
+    21300128: star3_004
+    21300130: star3_005
+    21300132: star3_006
+    21300134: star3_007
+    21300136: star3_008
+    21300138: star3_009
+    21300140: star3_010
+    21300142: star3_011
+    21300144: star3_012
+    21300146: star3_013
+    21300148: star3_014
+    21300150: star3_015
+    21300152: star3_016
+    21300154: star3_017
+    21300156: star3_018
+    21300158: star3_019
+    21300160: star3_020
+    21300162: star3_021
+    21300164: star3_022
+    21300166: star3_023
+    21300168: star3_024
+    21300170: star3_025
+    21300172: star3_026
+    21300174: star3_027
+    21300176: star3_028
+    21300178: star3_029
+    21300180: star4_000
+    21300182: star4_001
+    21300184: star4_002
+    21300186: star4_003
+    21300188: star4_004
+    21300190: star4_005
+    21300192: star4_006
+    21300194: star4_007
+    21300196: star4_008
+    21300198: star4_009
+    21300200: star4_010
+    21300202: star4_011
+    21300204: star4_012
+    21300206: star4_013
+    21300208: star4_014
+    21300210: star4_015
+    21300212: star4_016
+    21300214: star4_017
+    21300216: star4_018
+    21300218: star4_019
+    21300220: star4_020
+    21300222: star4_021
+    21300224: star4_022
+    21300226: star4_023
+    21300228: star4_024
+    21300230: star4_025
+    21300232: star4_026
+    21300234: star4_027
+    21300236: star4_028
+    21300238: star4_029
+    21300240: star5_000
+    21300242: star5_001
+    21300244: star5_002
+    21300246: star5_003
+    21300248: star5_004
+    21300250: star5_005
+    21300252: star5_006
+    21300254: star5_007
+    21300256: star5_008
+    21300258: star5_009
+    21300260: star5_010
+    21300262: star5_011
+    21300264: star5_012
+    21300266: star5_013
+    21300268: star5_014
+    21300270: star5_015
+    21300272: star5_016
+    21300274: star5_017
+    21300276: star5_018
+    21300278: star5_019
+    21300280: star5_020
+    21300282: star5_021
+    21300284: star5_022
+    21300286: star5_023
+    21300288: star5_024
+    21300290: star5_025
+    21300292: star5_026
+    21300294: star5_027
+    21300296: star5_028
+    21300298: star5_029
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: star1_000
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 424
+        width: 35
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 466
+        width: 36
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_002
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 469
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 376
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_004
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 348
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_005
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 65
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_006
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 168
+        width: 39
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5641026, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_007
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 209
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.6052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_008
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 386
+        width: 41
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.4722222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_010
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 61
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_011
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 176
+        width: 35
+        height: 31
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_012
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 299
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4516129, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_013
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 393
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.4722222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_015
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 468
+        width: 35
+        height: 43
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.53488374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 333
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5365854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 420
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 249
+        width: 30
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_019
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 189
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.5483871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_020
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 33
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_021
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 431
+        width: 38
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_022
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 26
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4848485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 168
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_024
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 299
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.54761904, y: 0.4722222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_025
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 477
+        width: 38
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_026
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 324
+        width: 37
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_027
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 267
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_028
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 31
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star1_029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.5641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_000
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 413
+        width: 24
+        height: 19
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_001
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 29
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_002
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 460
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_003
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 487
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_004
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 143
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_005
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 405
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_006
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 299
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_007
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 273
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_008
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 183
+        width: 23
+        height: 28
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_009
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 171
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.46, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_010
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 15
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.46, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_011
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 111
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_012
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 47
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_013
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 334
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_014
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 173
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: 0.46, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_015
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 394
+        width: 26
+        height: 21
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_016
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 143
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_017
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 448
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_019
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 143
+        width: 27
+        height: 23
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.6086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_020
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 440
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_021
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 143
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.525, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_022
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 362
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.4473684, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_023
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 249
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5576923, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_024
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 19
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_025
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 15
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_026
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 81
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_027
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 79
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_028
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 153
+        width: 23
+        height: 28
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2_029
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 489
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_000
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 171
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_001
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 20
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_002
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 95
+        width: 30
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_003
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 51
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_004
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 99
+        width: 35
+        height: 32
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_005
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 356
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54285717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_006
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 50
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_007
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 235
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 35
+        height: 34
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_010
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 233
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_011
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 266
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.5483871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_013
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 21
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_014
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 66
+        width: 30
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_015
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 143
+        width: 35
+        height: 31
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_016
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 124
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_017
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 143
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4516129, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_018
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_019
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 485
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.56, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_020
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 457
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_021
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 485
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_022
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 333
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_023
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 272
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_024
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 303
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_025
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 305
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_026
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 332
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_027
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 362
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_028
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 419
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3_029
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 390
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_000
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 390
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_001
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 77
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.5483871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_002
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 110
+        width: 35
+        height: 31
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_003
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 438
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_004
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 255
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_005
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 44
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_006
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 133
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_007
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 394
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_008
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 79
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_009
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 250
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_010
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 294
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_011
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 337
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_012
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 235
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_013
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 330
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_014
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 81
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_015
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 447
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_016
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 417
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_017
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 267
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_018
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 200
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_019
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 334
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_020
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 277
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_021
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 306
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_022
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 221
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_023
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 48
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5483871, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_024
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 235
+        width: 35
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_025
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 80
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.44827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_026
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 475
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4722222, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_027
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 11
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.38709676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_028
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 203
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.43333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4_029
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 112
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_000
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 302
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_001
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 461
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_002
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 434
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_003
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 419
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_004
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 112
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_005
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 111
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_006
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 222
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_007
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 17
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_008
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 431
+        width: 29
+        height: 24
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_009
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 299
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_010
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 47
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_011
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 18
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_012
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 79
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_013
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 171
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_014
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 243
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_015
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 213
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_016
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 363
+        width: 21
+        height: 22
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_017
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 195
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_018
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 387
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_019
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 203
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_020
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 363
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_021
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 363
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_022
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 486
+        width: 26
+        height: 25
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_023
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 383
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_024
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_025
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 457
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.48, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_026
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 49
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_027
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 203
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_028
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 111
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5_029
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 156
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
