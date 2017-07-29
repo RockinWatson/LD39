@@ -45,15 +45,54 @@ public class MusicSource : MonoBehaviour
         bass = audio[2];
         drums = audio[3];
 
-        pad.volume = .5f;
-        lead.volume = .5f;
-        bass.volume = .5f;
-        drums.volume = .5f;
+        pad.volume = .2f;
+        lead.volume = .2f;
+        bass.volume = .2f;
+        drums.volume = .2f;
 
         lead.mute = !lead.mute;
         bass.mute = !bass.mute;
         drums.mute = !drums.mute;
                
+    }
+
+    public bool StopMusic()
+    {
+        if (MusicPlayingCheck())
+        {
+            Debug.Log("Stopping all music.");
+            pad.Stop();
+            lead.Stop();
+            bass.Stop();
+            drums.Stop();
+            return true;
+        }
+        Debug.Log("Cannot stop music. Music is not playing.");
+        return false;
+    }
+
+    public bool StartMusic()
+    {
+        if (StopMusic())
+        {
+            Debug.Log("Starting all music.");
+            pad.Play();
+            lead.Play();
+            bass.Play();
+            drums.Play();
+            return true;
+        }
+        Debug.Log("Cannot start music. Music is already playing.");
+        return false;
+    }
+
+    public bool MusicPlayingCheck()
+    {
+        if ((pad.isPlaying == true) && (lead.isPlaying == true) && (bass.isPlaying == true) && drums.isPlaying == true)
+        {
+            return true;
+        }
+        return false;
     }
 
     public static void ToggleMute(AudioSource audio)
