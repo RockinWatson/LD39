@@ -37,12 +37,21 @@ public class MusicSource : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.F5))
         {
-            StopMusic();
+            UnmuteAll();
         }
         if (Input.GetKeyDown(KeyCode.F6))
         {
+            MuteAll();
+        }
+        if (Input.GetKeyDown(KeyCode.F7))
+        {
+            StopMusic();
+        }
+        if (Input.GetKeyDown(KeyCode.F8))
+        {
             StartMusic();
         }
+
     }
 
     public void InitializeAudio()
@@ -103,6 +112,54 @@ public class MusicSource : MonoBehaviour
             return true;
         }
         else { return false; }
+    }
+
+    public void MuteAll()
+    {
+        Debug.Log("Muting all music.");
+        if (pad.mute == false)
+        {
+            pad.mute = true;
+        }
+
+        if (lead.mute == false)
+        {
+            lead.mute = true;
+        }
+
+        if (bass.mute == false)
+        {
+            bass.mute = true;
+        }
+
+        if (drums.mute == false)
+        {
+            drums.mute = true;
+        }
+    }
+
+    public void UnmuteAll()
+    {
+        Debug.Log("Unmuting all music.");
+        if (pad.mute == true)
+        {
+            pad.mute = false;
+        }
+
+        if (lead.mute == true)
+        {
+            lead.mute = false;
+        }
+
+        if (bass.mute == true)
+        {
+            bass.mute = false;
+        }
+
+        if (drums.mute == true)
+        {
+            drums.mute = false;
+        }
     }
 
     public static void ToggleMute(AudioSource audio)
