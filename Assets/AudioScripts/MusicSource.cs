@@ -35,6 +35,14 @@ public class MusicSource : MonoBehaviour
         {
             ToggleMute(drums);
         }
+        if (Input.GetKeyDown(KeyCode.F5))
+        {
+            StopMusic();
+        }
+        if (Input.GetKeyDown(KeyCode.F6))
+        {
+            StartMusic();
+        }
     }
 
     public void InitializeAudio()
@@ -56,7 +64,7 @@ public class MusicSource : MonoBehaviour
                
     }
 
-    public bool StopMusic()
+    public void StopMusic()
     {
         if (MusicPlayingCheck())
         {
@@ -65,25 +73,27 @@ public class MusicSource : MonoBehaviour
             lead.Stop();
             bass.Stop();
             drums.Stop();
-            return true;
         }
-        Debug.Log("Cannot stop music. Music is not playing.");
-        return false;
+        else
+        {
+            Debug.Log("Cannot stop music. Music is not playing.");
+        }
     }
 
-    public bool StartMusic()
+    public void StartMusic()
     {
-        if (StopMusic())
+        if (!MusicPlayingCheck())
         {
             Debug.Log("Starting all music.");
             pad.Play();
             lead.Play();
             bass.Play();
             drums.Play();
-            return true;
         }
-        Debug.Log("Cannot start music. Music is already playing.");
-        return false;
+        else
+        {
+            Debug.Log("Cannot start music. Music is already playing.");
+        }
     }
 
     public bool MusicPlayingCheck()
@@ -92,7 +102,7 @@ public class MusicSource : MonoBehaviour
         {
             return true;
         }
-        return false;
+        else { return false; }
     }
 
     public static void ToggleMute(AudioSource audio)
