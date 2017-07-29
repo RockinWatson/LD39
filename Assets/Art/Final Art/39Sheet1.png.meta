@@ -1,27 +1,18 @@
 fileFormatVersion: 2
-guid: 5f755fd4e3ea7b048a95f1247301f915
-timeCreated: 1501338478
+guid: 0a95fd47bf778494996d39738538cf31
+timeCreated: 1501344134
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: background1
-    21300002: bullshit1
-    21300004: energy1
-    21300006: otherthang1
-    21300008: ship1
-    21300010: menu-button1
-    21300012: menu-powerlevel
-    21300014: menu1
-    21300016: Untitled-2
-    21300018: star1
-    21300020: star2
-    21300022: star3
-    21300024: star4
-    21300026: star5
-    21300028: star6
-    21300030: star7
-    21300032: star8
-    21300034: star9
+    21300000: star1
+    21300002: star2
+    21300004: star3
+    21300006: star4
+    21300008: star5
+    21300010: star6
+    21300012: star7
+    21300014: star8
+    21300016: star9
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -76,32 +67,94 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
-    maxTextureSize: 2048
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-  - buildTarget: WebGL
-    maxTextureSize: 2048
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bullshit1
+      name: star1
       rect:
         serializedVersion: 2
-        x: 131
-        y: 513
-        width: 51
+        x: 46
+        y: 47
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 61
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 103
+        width: 26
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -109,91 +162,26 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: energy1
+      name: star8
       rect:
         serializedVersion: 2
-        x: 131
-        y: 606
-        width: 67
-        height: 67
+        x: 32
+        y: 76
+        width: 25
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: menu-button1
+      name: star9
       rect:
         serializedVersion: 2
-        x: 131
-        y: 539
-        width: 67
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: menu-powerlevel
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 153
-        width: 51
-        height: 520
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: menu1
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 151
-        width: 128
-        height: 872
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: otherthang1
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 908
-        width: 115
-        height: 115
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: ship1
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 675
-        width: 100
-        height: 115
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: Untitled-2
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 792
-        width: 114
-        height: 114
+        x: 25
+        y: 51
+        width: 19
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
