@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Stars : MonoBehaviour {
+public class Pickup : MonoBehaviour {
 
     public float movespeed;
     public Vector3 direction = Vector3.left;
