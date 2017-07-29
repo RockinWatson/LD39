@@ -199,6 +199,59 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/menu/menu-bar1.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>32,218,64,436</rect>
+                <key>scale9Paddings</key>
+                <rect>32,218,64,436</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/menu/menu-powerback.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>18,136,36,272</rect>
+                <key>scale9Paddings</key>
+                <rect>18,136,36,272</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/menu/menubox.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/menu/scorebox.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>18,17,36,35</rect>
+                <key>scale9Paddings</key>
+                <rect>18,17,36,35</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/menu/power-fill.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>16,126,32,253</rect>
+                <key>scale9Paddings</key>
+                <rect>16,126,32,253</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/star/star1/star1_000.png</key>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/star/star1/star1_001.png</key>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/star/star1/star1_002.png</key>
@@ -550,6 +603,11 @@
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/star/star5/star5_027.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/star/star5/star5_028.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/star/star5/star5_029.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/menu/menu-bar1.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/menu/menubox.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/menu/menu-powerback.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/menu/power-fill.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/menu/scorebox.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

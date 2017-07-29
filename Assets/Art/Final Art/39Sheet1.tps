@@ -199,6 +199,90 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_000.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_001.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_002.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_003.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_004.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_005.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_006.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_007.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_008.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_009.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_010.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_011.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_012.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_013.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_014.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_015.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_016.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_017.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_018.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_019.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_020.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_021.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_022.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_023.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_024.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_025.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_026.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_027.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_028.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_029.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>34,34,67,67</rect>
+                <key>scale9Paddings</key>
+                <rect>34,34,67,67</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_000.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_001.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_002.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_003.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_004.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_005.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_006.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_007.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_008.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_009.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_010.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_011.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_012.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_013.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_014.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_015.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_016.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_017.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_018.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_019.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_020.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_021.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_022.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_023.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_024.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_025.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_026.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_027.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_028.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_029.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>23,23,47,46</rect>
+                <key>scale9Paddings</key>
+                <rect>23,23,47,46</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_000.png</key>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_001.png</key>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_002.png</key>
@@ -400,6 +484,66 @@
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_027.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_028.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/playership60/playership60_029.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_026.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_027.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_028.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_029.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_000.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_001.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_002.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_003.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_004.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_005.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_006.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_007.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_008.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_009.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_010.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_011.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_012.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_013.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_014.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_015.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_016.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_017.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_018.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_019.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_020.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_021.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_022.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_023.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_024.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_025.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_020.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_021.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_022.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_023.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_024.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_025.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_026.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_027.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_028.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_029.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_000.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_001.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_002.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_003.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_004.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_005.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_006.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_007.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_008.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_009.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_010.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_011.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_012.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_013.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_014.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_015.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_016.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_017.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_018.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_019.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
