@@ -17,7 +17,8 @@ public class Player : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-        //Player Movement
+        #region Player Movement Y
+        //Player Movement Y
         if (transform.position.y < _outterRowY && Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
         {
             transform.position = Vector2.MoveTowards(new Vector2(transform.position.x, transform.position.y), new Vector2(transform.position.x, transform.position.y + yPos), speed * Time.deltaTime);
@@ -53,6 +54,7 @@ public class Player : MonoBehaviour {
         {
             transform.position = new Vector3(transform.position.x, -_outterRowY);
         }
+        #endregion
         #endregion
     }
 }
