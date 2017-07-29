@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>4.4.0</string>
         <key>fileName</key>
-        <string>F:/GameDev/LD39-bitbucket/ld39/Assets/Art/dummies1.tps</string>
+        <string>F:/GameDev/LD39-bitbucket/ld39/Assets/Art/Test Art/dummies1.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -199,16 +199,16 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/background1.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Untitled-2.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>320,180,640,360</rect>
+                <rect>29,29,57,57</rect>
                 <key>scale9Paddings</key>
-                <rect>320,180,640,360</rect>
+                <rect>29,29,57,57</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -235,6 +235,45 @@
                 <rect>17,17,34,34</rect>
                 <key>scale9Paddings</key>
                 <rect>17,17,34,34</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/menu-button1.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>17,16,34,33</rect>
+                <key>scale9Paddings</key>
+                <rect>17,16,34,33</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/menu-powerlevel.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>13,130,26,260</rect>
+                <key>scale9Paddings</key>
+                <rect>13,130,26,260</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/menu1.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>32,218,64,436</rect>
+                <key>scale9Paddings</key>
+                <rect>32,218,64,436</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -267,11 +306,14 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>C:/Users/tsdun/Desktop/LD39-Fart/background1.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/bullshit1.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/energy1.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/otherthang1.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/ship1.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Untitled-2.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/menu1.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/menu-button1.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/menu-powerlevel.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
