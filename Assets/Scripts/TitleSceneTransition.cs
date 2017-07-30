@@ -42,8 +42,6 @@ public class TitleSceneTransition : MonoBehaviour {
         //Resources.UnloadAsset(ZMLogo);
         GameObject.Destroy(ZMLogo);
         TitleCard = Instantiate(Resources.Load("Title/TITLE")) as GameObject;
-
-
     }
 
     IEnumerator WaitForNextScene()
