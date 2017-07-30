@@ -21,7 +21,7 @@ namespace Assets.Scripts.Utilities
 
         void OnTriggerEnter2D(Collider2D other)
         {
-            if (other.gameObject.name == Constants.Names.LeftToRightDestroy)
+            if (other.gameObject.name == Constants.Names.LeftDestroy)
             {
                 Destroy(this.gameObject);
             }
