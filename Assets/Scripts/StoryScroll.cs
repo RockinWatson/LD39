@@ -27,7 +27,8 @@ public class StoryScroll : MonoBehaviour {
             if (Input.GetKeyDown(KeyCode.Return))
             {
                 ready = false;
-                StartCoroutine(WaitForNextScene());
+                //StartCoroutine(WaitForNextScene());
+                NextScene();
             }
         }
 
@@ -35,6 +36,14 @@ public class StoryScroll : MonoBehaviour {
         {
             transform.Translate(Vector3.up * Time.deltaTime / speed);
         }
+    }
+
+    public void NextScene()
+    {
+        //StoryAudio.SnoopSong.Stop();
+        StoryAudio.RobotVoice.Stop();
+        StoryAudio.Select.Play();
+        SceneManager.LoadScene("MenuPause");
     }
 
     IEnumerator WaitForNextScene()

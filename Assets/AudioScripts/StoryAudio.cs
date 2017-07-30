@@ -14,7 +14,10 @@ public class StoryAudio : MonoBehaviour {
         SnoopSong = audio[0];
         RobotVoice = audio[1];
         Select = audio[2];
-	}
+
+        Select.volume = .5f;
+        DontDestroyOnLoad(this);
+    }
 	
 	// Update is called once per frame
 	void Update () {
