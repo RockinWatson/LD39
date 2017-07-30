@@ -409,6 +409,19 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/powerbox2.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>18,9,36,18</rect>
+                <key>scale9Paddings</key>
+                <rect>18,9,36,18</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/star1.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -688,6 +701,7 @@
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_027.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_028.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_029.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/powerbox2.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

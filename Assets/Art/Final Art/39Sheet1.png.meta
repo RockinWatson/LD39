@@ -163,6 +163,7 @@ TextureImporter:
     21300312: BaddySkellyBoner_027
     21300314: BaddySkellyBoner_028
     21300316: BaddySkellyBoner_029
+    21300318: powerbox2
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -2171,11 +2172,24 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
+      name: powerbox2
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 2012
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
       name: star1
       rect:
         serializedVersion: 2
         x: 1998
-        y: 1990
+        y: 1953
         width: 12
         height: 12
       alignment: 0
@@ -2188,7 +2202,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1984
-        y: 1989
+        y: 1952
         width: 12
         height: 13
       alignment: 0
@@ -2201,7 +2215,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1963
-        y: 2012
+        y: 1975
         width: 29
         height: 35
       alignment: 0
@@ -2214,7 +2228,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1994
-        y: 2004
+        y: 1967
         width: 22
         height: 17
       alignment: 0
@@ -2226,8 +2240,8 @@ TextureImporter:
       name: star5
       rect:
         serializedVersion: 2
-        x: 2012
-        y: 1990
+        x: 2036
+        y: 2039
         width: 9
         height: 8
       alignment: 0
@@ -2240,7 +2254,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2018
-        y: 2000
+        y: 1963
         width: 19
         height: 20
       alignment: 0
@@ -2253,7 +2267,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1994
-        y: 2023
+        y: 1986
         width: 26
         height: 24
       alignment: 0
@@ -2266,7 +2280,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2022
-        y: 2022
+        y: 1985
         width: 25
         height: 25
       alignment: 0
@@ -2279,7 +2293,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1963
-        y: 1987
+        y: 1950
         width: 19
         height: 23
       alignment: 0
