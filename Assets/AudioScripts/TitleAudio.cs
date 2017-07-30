@@ -8,6 +8,9 @@ public class TitleAudio : MonoBehaviour {
     public static AudioSource Select;
     public static AudioSource AutoTune;
 
+    private static float SongDelay = 0;
+    private static float AutoTuneDelay = SongDelay + 3.45f;
+
     // Use this for initialization
     void Awake ()
     {
@@ -20,9 +23,9 @@ public class TitleAudio : MonoBehaviour {
     }
 	
 	// Update is called once per frame
-	void Update () {
-
-	
+	void Update ()
+    {
+        
 	}
 
     public static void InitializeAudio()
@@ -30,8 +33,8 @@ public class TitleAudio : MonoBehaviour {
         if (!Title.isPlaying)
         {
             //Title.Play();
-            Title.PlayDelayed(2);
-            AutoTune.PlayDelayed(5.45f);
+            Title.PlayDelayed(SongDelay);
+            AutoTune.PlayDelayed(AutoTuneDelay);
         }
         else
         {
