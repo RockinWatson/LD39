@@ -373,6 +373,33 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_000.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_001.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_002.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_003.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_004.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_005.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_006.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_007.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_008.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_009.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_010.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_011.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_012.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_013.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_014.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>143,21,286,42</rect>
+                <key>scale9Paddings</key>
+                <rect>143,21,286,42</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/ZMLOGO/ZMlogo_000.png</key>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/ZMLOGO/ZMlogo_001.png</key>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/ZMLOGO/ZMlogo_002.png</key>
@@ -686,6 +713,21 @@
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/QUOTES/13.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/QUOTES/14.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/QUOTES/15.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_005.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_006.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_007.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_008.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_009.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_010.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_011.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_012.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_013.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_014.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_000.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_001.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_002.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_003.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Story/StroryAnis/4B/4B_004.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
