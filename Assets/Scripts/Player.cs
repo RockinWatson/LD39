@@ -30,6 +30,10 @@ public class Player : MonoBehaviour {
 
     private GlobalTimer gTimer;
 
+    private float timer = 0;
+    private float timerMax = 0;
+    private int healtOverTime = 1;
+
     private void Awake()
     {
         health.MaxValue = 100;
@@ -79,6 +83,13 @@ public class Player : MonoBehaviour {
             Instantiate(bullet, pos, transform.rotation);
             _waitForNext = shootTimer;
         }
+
+        //Time Health taken Away.
+        if (Waited(1))
+        {
+            health.CurrentVal -= healtOverTime;
+            timer = 0;
+        }
     }
 
     private void UpdatePlayerMovement()
@@ -92,5 +103,16 @@ public class Player : MonoBehaviour {
         {
             transform.position = Vector2.MoveTowards(new Vector2(transform.position.x, transform.position.y), new Vector2(transform.position.x, transform.position.y - yPos), speed * Time.deltaTime);
         }
+    }
+
+    private bool Waited(float seconds)
+    {
+        timerMax = seconds;
+        timer += Time.deltaTime;
+        if (timer >= timerMax)
+        {
+            return true;
+        }
+        return false;
     }
 }

@@ -4,6 +4,7 @@
     {
         public class Names
         {
+            public const string RightDestroy = "RightDestroy";
             public const string LeftDestroy = "LeftDestroy";
             public const string FloaterOne = "Floater1";
             public const string FloaterTwo = "Floater2";
@@ -18,6 +19,11 @@
         public class Timer
         {
             public static float Time;
+        }
+
+        public class Globals
+        {
+            public static int Score;
         }
     }
 }
