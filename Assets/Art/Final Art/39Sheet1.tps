@@ -199,6 +199,48 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_000.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_001.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_002.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_003.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_004.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_005.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_006.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_007.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_008.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_009.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_010.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_011.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_012.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_013.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_014.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_015.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_016.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_017.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_018.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_019.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_020.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_021.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_022.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_023.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_024.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_025.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_026.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_027.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_028.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_029.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>48,40,96,79</rect>
+                <key>scale9Paddings</key>
+                <rect>48,40,96,79</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_000.png</key>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_001.png</key>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerPickup/PickupPower_002.png</key>
@@ -702,6 +744,36 @@
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_028.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_029.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/powerbox2.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_000.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_001.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_002.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_003.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_004.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_005.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_006.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_007.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_008.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_009.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_010.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_011.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_012.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_013.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_014.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_015.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_016.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_017.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_018.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_019.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_020.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_021.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_022.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_023.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_024.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_025.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_026.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_027.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_028.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/Explosion/ExplodyTime/DeathExplosion_029.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

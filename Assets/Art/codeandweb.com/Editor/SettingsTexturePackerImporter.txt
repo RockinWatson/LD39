@@ -3,14 +3,17 @@ importPivots: 1
 tpsheetFileNames:
 - Assets/Art/Final Art/39Sheet1.tpsheet
 - Assets/Art/Final Art/39Sheet2spins.tpsheet
+- Assets/Art/Final Art/39SheetStoryStuff.tpsheet
 - Assets/Art/Test Art/dummies1.tpsheet
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
 textureFileNames:
 - Assets/Art/Final Art/39Sheet1.png
 - Assets/Art/Final Art/39Sheet2spins.png
+- Assets/Art/Final Art/39SheetStoryStuff.png
 - Assets/Art/Test Art/dummies1.png
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 normalmapFileNames:
+- 
 - 
 - 
 - 
