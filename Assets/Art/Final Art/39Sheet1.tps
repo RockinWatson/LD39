@@ -325,6 +325,90 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_000.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_001.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_002.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_003.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_004.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_005.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_006.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_007.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_008.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_009.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_010.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_011.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_012.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_013.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_014.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_015.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_016.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_017.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_018.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_019.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_020.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_021.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_022.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_023.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_024.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_025.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_026.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_027.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_028.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_029.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>32,29,65,58</rect>
+                <key>scale9Paddings</key>
+                <rect>32,29,65,58</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_000.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_001.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_002.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_003.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_004.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_005.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_006.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_007.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_008.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_009.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_010.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_011.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_012.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_013.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_014.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_015.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_016.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_017.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_018.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_019.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_020.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_021.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_022.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_023.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_024.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_025.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_026.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_027.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_028.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_029.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>55,29,111,57</rect>
+                <key>scale9Paddings</key>
+                <rect>55,29,111,57</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/star1.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -544,6 +628,66 @@
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_017.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_018.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/PlayerShip/PowerStar/PlayerShot1/PlayerShot1_019.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_000.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_001.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_002.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_003.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_004.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_005.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_006.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_007.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_008.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_009.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_010.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_011.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_012.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_013.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_014.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_015.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_016.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_017.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_018.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_019.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_020.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_021.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_022.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_023.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_024.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_025.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_026.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_027.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_028.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Roid/ROIDS/BaddyRoid_029.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_000.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_001.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_002.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_003.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_004.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_005.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_006.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_007.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_008.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_009.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_010.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_011.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_012.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_013.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_014.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_015.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_016.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_017.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_018.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_019.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_020.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_021.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_022.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_023.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_024.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_025.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_026.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_027.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_028.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/SkellyBoner/SKEELYBOI/BaddySkellyBoner_029.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

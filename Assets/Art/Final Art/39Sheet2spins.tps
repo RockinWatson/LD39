@@ -199,6 +199,132 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_000.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_001.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_002.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_003.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_004.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_005.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_006.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_007.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_008.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_009.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_010.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_011.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_012.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_013.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_014.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_015.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_016.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_017.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_018.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_019.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_020.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_021.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_022.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_023.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_024.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_025.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_026.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_027.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_028.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_029.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>32,31,63,62</rect>
+                <key>scale9Paddings</key>
+                <rect>32,31,63,62</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_000.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_001.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_002.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_003.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_004.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_005.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_006.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_007.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_008.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_009.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_010.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_011.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_012.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_013.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_014.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_015.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_016.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_017.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_018.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_019.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_020.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_021.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_022.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_023.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_024.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_025.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_026.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_027.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_028.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_029.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>66,66,133,132</rect>
+                <key>scale9Paddings</key>
+                <rect>66,66,133,132</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_000.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_001.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_002.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_003.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_004.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_005.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_006.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_007.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_008.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_009.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_010.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_011.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_012.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_013.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_014.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_015.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_016.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_017.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_018.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_019.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_020.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_021.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_022.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_023.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_024.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_025.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_026.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_027.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_028.png</key>
+            <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_029.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>42,40,84,80</rect>
+                <key>scale9Paddings</key>
+                <rect>42,40,84,80</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">C:/Users/tsdun/Desktop/LD39-Fart/menu/menu-bar1.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -608,6 +734,96 @@
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/menu/menu-powerback.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/menu/power-fill.png</filename>
             <filename>C:/Users/tsdun/Desktop/LD39-Fart/menu/scorebox.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_000.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_001.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_002.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_003.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_004.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_005.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_006.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_007.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_008.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_009.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_010.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_011.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_012.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_013.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_014.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_015.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_016.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_017.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_018.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_019.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_020.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_021.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_022.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_023.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_024.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_025.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_026.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_027.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_028.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/Eyeball/IBALL/Baddy-IBALL_029.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_000.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_001.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_002.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_003.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_004.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_005.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_006.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_007.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_008.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_009.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_010.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_011.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_012.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_013.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_014.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_015.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_016.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_017.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_018.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_019.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_020.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_021.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_022.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_023.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_024.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_025.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_026.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_027.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_028.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetBigBoi/BIGPLANET/BaddyBigBoi_029.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_000.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_001.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_002.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_003.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_004.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_005.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_006.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_007.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_008.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_009.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_010.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_011.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_012.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_013.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_014.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_015.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_016.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_017.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_018.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_019.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_020.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_021.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_022.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_023.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_024.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_025.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_026.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_027.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_028.png</filename>
+            <filename>C:/Users/tsdun/Desktop/LD39-Fart/enemies/PlanetSmall/SALLBOI/BaddySmallPlanet_029.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
