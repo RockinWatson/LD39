@@ -2,6 +2,8 @@
 
 public class Player : MonoBehaviour {
 
+    public GameObject bullet;
+
     public float speed;
     public float yPos;
 
@@ -56,5 +58,8 @@ public class Player : MonoBehaviour {
         }
         #endregion
         #endregion
+
+        //Bullet
+
     }
 }

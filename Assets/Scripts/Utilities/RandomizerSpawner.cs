@@ -23,16 +23,16 @@ namespace Assets.Scripts.Utilities
         void Update()
         {
             CountDown -= Time.deltaTime;
-            if (CountDown <= 0 && GameObject.Find(Constants.Tags.FloaterOne + "(Clone)") != null ||
-                                  GameObject.Find(Constants.Tags.FloaterTwo + "(Clone)") != null ||
-                                  GameObject.Find(Constants.Tags.FloaterThree + "(Clone)") != null)
+            if (CountDown <= 0 && GameObject.Find(Constants.Names.FloaterOne + "(Clone)") != null ||
+                                  GameObject.Find(Constants.Names.FloaterTwo + "(Clone)") != null ||
+                                  GameObject.Find(Constants.Names.FloaterThree + "(Clone)") != null)
             {
                 CountDown = WaitForNext;
             }
             else if (CountDown <= 0)
             {
-                var enemyPrefab = gameObjs[Random.Range(0, gameObjs.Length)];
-                if (enemyPrefab.name != Constants.Tags.FloaterOne)
+                var floaterPrefab = gameObjs[Random.Range(0, gameObjs.Length)];
+                if (floaterPrefab.name != Constants.Names.FloaterOne)
                 {
                     pos = new Vector2(Random.Range(XMin, XMax), Random.Range(0, 0));
                 }
@@ -40,7 +40,7 @@ namespace Assets.Scripts.Utilities
                 {
                     pos = new Vector2(Random.Range(XMin, XMax), Random.Range(YMin, YMax));
                 }
-                Instantiate(enemyPrefab, pos, transform.rotation);
+                Instantiate(floaterPrefab, pos, transform.rotation);
             }
         }
     }

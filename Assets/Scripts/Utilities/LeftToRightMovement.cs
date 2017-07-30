@@ -3,12 +3,15 @@
 namespace Assets.Scripts.Utilities
 {
     public class LeftToRightMovement : MonoBehaviour
-    {
+    {   
+        public float minRange;
+        public float maxRange;
+
         private float _randomSpeed;
 
         void Start()
         {
-            _randomSpeed = Random.Range(0.01f, 0.03f);
+            _randomSpeed = Random.Range(minRange, maxRange);
         }
 
         void Update()
@@ -18,7 +21,7 @@ namespace Assets.Scripts.Utilities
 
         void OnTriggerEnter2D(Collider2D other)
         {
-            if (other.gameObject.name == Constants.Tags.LeftToRightDestroy)
+            if (other.gameObject.name == Constants.Names.LeftToRightDestroy)
             {
                 Destroy(this.gameObject);
             }
