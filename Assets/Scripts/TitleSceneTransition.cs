@@ -7,13 +7,16 @@ public class TitleSceneTransition : MonoBehaviour {
 
     private bool ready;
 
+    [SerializeField]
+    private float InputDelay = 6f;
+
     public GameObject ZMLogo;
-    //public Transform ZMLogo_000;
-    public Transform TitleCard;
+    public GameObject TitleCard;
 
     // Use this for initialization
-    void Start () {
-        Instantiate(ZMLogo, new Vector3(0, 0, 0), Quaternion.identity);
+    void Awake () {
+
+        ZMLogo = Instantiate(Resources.Load("Title/ZMLogo")) as GameObject;
         StartCoroutine(WaitForInput());
         StartCoroutine(ShowTitleCard());
 
@@ -35,9 +38,12 @@ public class TitleSceneTransition : MonoBehaviour {
     IEnumerator ShowTitleCard()
     {
         //Destroy ZM logo and display title card
-        //Resources.UnloadAsset(ZMLogo);
         yield return new WaitForSeconds(3.45f);
-        Instantiate(TitleCard, new Vector3(0, 0.19f, 0), Quaternion.identity);
+        //Resources.UnloadAsset(ZMLogo);
+        GameObject.Destroy(ZMLogo);
+        TitleCard = Instantiate(Resources.Load("Title/TITLE")) as GameObject;
+
+
     }
 
     IEnumerator WaitForNextScene()
@@ -53,7 +59,7 @@ public class TitleSceneTransition : MonoBehaviour {
     IEnumerator WaitForInput()
     {
         ready = false;
-        yield return new WaitForSeconds(8f);
+        yield return new WaitForSeconds(InputDelay);
         Debug.Log("Ready for input.");
         ready = true;
     }
