@@ -6,7 +6,7 @@ namespace Assets.Scripts
     {
         public GUIText scoreText;
 
-        void UpdateScoreText()
+        void Awake()
         {
             scoreText.text = Constants.Globals.Score.ToString();
         }

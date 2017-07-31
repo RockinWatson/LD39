@@ -29,7 +29,7 @@
 
         public class Globals
         {
-            public static int Score;
+            public static int Score { get; set; }
         }
 
         public class Enemies
