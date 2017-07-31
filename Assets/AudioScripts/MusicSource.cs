@@ -6,10 +6,10 @@ using UnityEngine;
 public class MusicSource : MonoBehaviour
 {
 
-    public AudioSource pad;
-    public AudioSource lead;
-    public AudioSource bass;
-    public AudioSource drums;
+    public static AudioSource pad;
+    public static AudioSource lead;
+    public static AudioSource bass;
+    public static AudioSource drums;
 
     // Use this for initialization
     void Awake ()
@@ -24,62 +24,62 @@ public class MusicSource : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
     {
-        if (Input.GetKeyDown(KeyCode.F1))
-        {
-            ToggleMute(pad);
-        }
-        if (Input.GetKeyDown(KeyCode.F2))
-        {
-            ToggleMute(lead);
-        }
-        if (Input.GetKeyDown(KeyCode.F3))
-        {
-            ToggleMute(bass);
-        }
-        if (Input.GetKeyDown(KeyCode.F4))
-        {
-            ToggleMute(drums);
-        }
-        if (Input.GetKeyDown(KeyCode.F5))
-        {
-            UnmuteAll();
-        }
-        if (Input.GetKeyDown(KeyCode.F6))
-        {
-            MuteAll();
-        }
-        if (Input.GetKeyDown(KeyCode.F7))
-        {
-            StopMusic();
-        }
-        if (Input.GetKeyDown(KeyCode.F8))
-        {
-            StartMusic();
-        }
-        if (Input.GetKeyDown(KeyCode.F9))
-        {
-            PitchShiftDown();
-        }
-        if (Input.GetKeyDown(KeyCode.F10))
-        {
-            PitchShiftUp();
-        }
-        if (Input.GetKeyDown(KeyCode.F11))
-        {
-            AddStem();
-        }
-        if (Input.GetKeyDown(KeyCode.F12))
-        {
-            RemoveStem();
-        }
-        if (Input.GetKeyDown(KeyCode.KeypadPlus))
-        {
-            SceneManager.LoadScene("GameOver");
-        }
+        //if (Input.GetKeyDown(KeyCode.F1))
+        //{
+        //    ToggleMute(pad);
+        //}
+        //if (Input.GetKeyDown(KeyCode.F2))
+        //{
+        //    ToggleMute(lead);
+        //}
+        //if (Input.GetKeyDown(KeyCode.F3))
+        //{
+        //    ToggleMute(bass);
+        //}
+        //if (Input.GetKeyDown(KeyCode.F4))
+        //{
+        //    ToggleMute(drums);
+        //}
+        //if (Input.GetKeyDown(KeyCode.F5))
+        //{
+        //    UnmuteAll();
+        //}
+        //if (Input.GetKeyDown(KeyCode.F6))
+        //{
+        //    MuteAll();
+        //}
+        //if (Input.GetKeyDown(KeyCode.F7))
+        //{
+        //    StopMusic();
+        //}
+        //if (Input.GetKeyDown(KeyCode.F8))
+        //{
+        //    StartMusic();
+        //}
+        //if (Input.GetKeyDown(KeyCode.F9))
+        //{
+        //    PitchShiftDown();
+        //}
+        //if (Input.GetKeyDown(KeyCode.F10))
+        //{
+        //    PitchShiftUp();
+        //}
+        //if (Input.GetKeyDown(KeyCode.F11))
+        //{
+        //    AddStem();
+        //}
+        //if (Input.GetKeyDown(KeyCode.F12))
+        //{
+        //    RemoveStem();
+        //}
+        //if (Input.GetKeyDown(KeyCode.KeypadPlus))
+        //{
+        //    SceneManager.LoadScene("GameOver");
+        //}
 
     }
 
-    public void AddStem()
+    public static void AddStem()
     {
         if ((pad.mute == false) && (lead.mute == true) && (drums.mute == true) && (bass.mute == true))
         {
@@ -99,7 +99,7 @@ public class MusicSource : MonoBehaviour
         else { Debug.Log("All stems are active.");}
     }
 
-    public void RemoveStem()
+    public static void RemoveStem()
     {
         if ((pad.mute == false) && (lead.mute == false) && (drums.mute == false) && (bass.mute == false))
         {

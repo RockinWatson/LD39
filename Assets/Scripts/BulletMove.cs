@@ -32,6 +32,7 @@ public class BulletMove : MonoBehaviour {
             collision.gameObject.name == Constants.Enemies.BaddyRoid + clone ||
             collision.gameObject.name == Constants.Enemies.BaddySmallBoy + clone)
         {
+            SoundController.explosion.Play();
             PlayAnimation();
         }
     }

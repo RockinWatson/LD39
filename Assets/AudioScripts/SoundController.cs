@@ -45,7 +45,7 @@ public class SoundController : MonoBehaviour {
         enemyShoot.volume = startVolume;
         pickup.volume = startVolume;
         losePower.volume = startVolume;
-        explosion.volume = startVolume;
+        explosion.volume = .1f;
         hitEnemy.volume = startVolume;
     }
 }

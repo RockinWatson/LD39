@@ -127,11 +127,15 @@ public class Player : MonoBehaviour {
                 collision.gameObject.name == Constants.Enemies.BaddyRoid + clone ||
                 collision.gameObject.name == Constants.Enemies.BaddySmallBoy + clone)
         {
+            MusicSource.RemoveStem();
+            SoundController.losePower.Play();
             health.CurrentVal -= 10;
         }
 
         if (collision.gameObject.name == "PowerUp(Clone)")
         {
+            MusicSource.AddStem();
+            SoundController.pickup.Play();
             health.CurrentVal += 10;
         }
     }
