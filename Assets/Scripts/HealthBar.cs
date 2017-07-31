@@ -4,7 +4,7 @@ using UnityEngine.UI;
 public class HealthBar : MonoBehaviour {
 
     private float fillAmount = 100.0f;
-    private float lerpSpeed = 2.0f;
+    private float lerpSpeed = 10.0f;
 
     [SerializeField]
     private Image image;

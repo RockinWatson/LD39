@@ -1,5 +1,10 @@
 ﻿using Assets.Scripts;
+using Assets.Scripts.Utilities;
+using Mono.Data.Sqlite;
+using System.Collections;
+using System.Data;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour {
 
@@ -9,6 +14,7 @@ public class Player : MonoBehaviour {
     private bool _keyUp() { return (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow)); }
     private bool _keyDown() { return (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow)); }
     private bool _keyShoot() { return Input.GetKeyDown(KeyCode.Space); }
+    public bool _keyPause() { return (Input.GetKeyDown(KeyCode.LeftShift) || Input.GetKeyDown(KeyCode.RightShift)); }
 
     public GameObject bullet;
 
@@ -35,6 +41,8 @@ public class Player : MonoBehaviour {
     private int healtOverTime = 1;
 
     private string clone = "(Clone)";
+
+    public GameObject PauseBar;
 
     private void Awake()
     {
@@ -93,6 +101,13 @@ public class Player : MonoBehaviour {
             health.CurrentVal -= healtOverTime;
             timer = 0;
         }
+
+        //Death
+        if (health.CurrentVal <= 0)
+        {
+            FXManager.Get().SpawnExploder(transform.position);
+            Destroy(gameObject);       
+        }
     }
 
     private void UpdatePlayerMovement()
@@ -137,6 +152,7 @@ public class Player : MonoBehaviour {
             MusicSource.AddStem();
             SoundController.pickup.Play();
             health.CurrentVal += 10;
+            Constants.Globals.Score += 5;
         }
     }
 }

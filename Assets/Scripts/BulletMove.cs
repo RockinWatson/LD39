@@ -5,18 +5,7 @@ public class BulletMove : MonoBehaviour {
 
     public float Speed;
 
-    public Animation anim;
-
     private string clone = "(Clone)";
-
-    private float deathTimer = 0.0f;
-
-    private void Start()
-    {
-        anim = GetComponent<Animation>();
-        anim.wrapMode = WrapMode.Loop;
-        anim["DeathExploder"].wrapMode = WrapMode.Once;
-    }
 
     void Update()
     {
@@ -33,17 +22,8 @@ public class BulletMove : MonoBehaviour {
             collision.gameObject.name == Constants.Enemies.BaddySmallBoy + clone)
         {
             SoundController.explosion.Play();
-            PlayAnimation();
-        }
-    }
-
-    void PlayAnimation()
-    {
-        deathTimer++;
-        anim.CrossFade("DeathExploder");
-        if (deathTimer > 0.5)
-        {
             Destroy(gameObject);
+            Constants.Globals.Score += 10;
         }
     }
 }

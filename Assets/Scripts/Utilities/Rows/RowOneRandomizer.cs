@@ -15,9 +15,11 @@ namespace Assets.Scripts.Utilities.Rows
         private float[] rowNums;
 
         //Time to spawn
-        public float WaitForNext = 5f;
+        public float WaitForNext = 0f;
 
         private float CountDown;
+
+        private float updateSpeed = 2;
 
         private Vector2 pos;
         private Vector2 newPos;
@@ -28,8 +30,8 @@ namespace Assets.Scripts.Utilities.Rows
         }
 
         void Update()
-        {          
-            CountDown -= Time.deltaTime * 2;
+        {
+            CountDown -= Time.deltaTime * updateSpeed;
 
             if (CountDown <= 0)
             {
@@ -37,6 +39,19 @@ namespace Assets.Scripts.Utilities.Rows
                 pos = new Vector2(Xpos, rowNums[yPos]);
                 InstantiateObj(pos);
                 CountDown = WaitForNext;
+            }
+
+            if (Constants.Globals.Score >= 100)
+            {
+                updateSpeed = 3;
+            }
+            if (Constants.Globals.Score >= 200)
+            {
+                updateSpeed = 4;
+            }
+            if (Constants.Globals.Score >=300)
+            {
+                updateSpeed = 5;
             }
         }
 

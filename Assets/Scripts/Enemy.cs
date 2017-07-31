@@ -1,10 +1,12 @@
-﻿using UnityEngine;
+﻿using Assets.Scripts.Utilities;
+using UnityEngine;
 
 namespace Assets.Scripts
 {
     public class Enemy : MonoBehaviour
     {
         private string clone = "(Clone)";
+
         void OnTriggerEnter2D(Collider2D collision)
         {
             if (collision.gameObject.name == Constants.Enemies.BaddyBigBoy + clone||
@@ -16,8 +18,14 @@ namespace Assets.Scripts
                 collision.gameObject.name == "Bullet(Clone)" ||
                 collision.gameObject.name == "Player")
             {
-                Destroy(gameObject);
+                Die();
             }
+        }
+
+        private void Die()
+        {
+            FXManager.Get().SpawnExploder(transform.position);
+            Destroy(gameObject);
         }
     }
 }

@@ -7,6 +7,8 @@ public class TitleSceneTransition : MonoBehaviour {
 
     private bool ready;
 
+    private bool _enterKey() { return Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown("enter"); }
+
     [SerializeField]
     private float InputDelay = 6f;
 
@@ -19,16 +21,14 @@ public class TitleSceneTransition : MonoBehaviour {
         ZMLogo = Instantiate(Resources.Load("Title/ZMLogo")) as GameObject;
         StartCoroutine(WaitForInput());
         StartCoroutine(ShowTitleCard());
-        
-
-	}
+    }
 
     // Update is called once per frame
     void Update()
     {
         if (ready == true)
         {
-            if (Input.GetKeyDown(KeyCode.Return))
+            if (_enterKey())
             {
                 ready = false;
                 StartCoroutine(WaitForNextScene());

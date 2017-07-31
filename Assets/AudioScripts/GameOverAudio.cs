@@ -8,6 +8,8 @@ public class GameOverAudio : MonoBehaviour {
     public AudioSource Intro;
     public AudioSource Select;
 
+    private GameObject musicController;
+
     public bool selectUsed = false;
 
     void Awake ()
@@ -22,17 +24,13 @@ public class GameOverAudio : MonoBehaviour {
         Intro = audio;
         Intro.Play();
 
-        GameObject musicController = GameObject.Find("MusicController");
+        musicController = GameObject.Find("MusicController");
         musicController.SetActive(false);
         Destroy(musicController);
-
-
     }
 	
 	// Update is called once per frame
 	void Update () {
-
-
 
         if (Input.GetKeyDown(KeyCode.Return))
 
