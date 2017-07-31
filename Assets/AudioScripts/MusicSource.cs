@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class MusicSource : MonoBehaviour
@@ -13,6 +14,8 @@ public class MusicSource : MonoBehaviour
     // Use this for initialization
     void Awake ()
     {
+        GameObject musicController = GameObject.Find("MusicController");
+        musicController.SetActive(true);
         InitializeAudio();
 
         DontDestroyOnLoad(this);
@@ -68,6 +71,10 @@ public class MusicSource : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.F12))
         {
             RemoveStem();
+        }
+        if (Input.GetKeyDown(KeyCode.KeypadPlus))
+        {
+            SceneManager.LoadScene("GameOver");
         }
 
     }
