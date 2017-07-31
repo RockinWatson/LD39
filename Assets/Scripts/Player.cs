@@ -34,6 +34,8 @@ public class Player : MonoBehaviour {
     private float timerMax = 0;
     private int healtOverTime = 1;
 
+    private string clone = "(Clone)";
+
     private void Awake()
     {
         health.MaxValue = 100;
@@ -115,5 +117,22 @@ public class Player : MonoBehaviour {
             return true;
         }
         return false;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.name == Constants.Enemies.BaddyBigBoy + clone ||
+                collision.gameObject.name == Constants.Enemies.BaddyBoner + clone ||
+                collision.gameObject.name == Constants.Enemies.BaddyIball + clone ||
+                collision.gameObject.name == Constants.Enemies.BaddyRoid + clone ||
+                collision.gameObject.name == Constants.Enemies.BaddySmallBoy + clone)
+        {
+            health.CurrentVal -= 10;
+        }
+
+        if (collision.gameObject.name == "PowerUp(Clone)")
+        {
+            health.CurrentVal += 10;
+        }
     }
 }

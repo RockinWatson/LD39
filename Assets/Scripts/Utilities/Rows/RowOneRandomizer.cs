@@ -46,25 +46,25 @@ namespace Assets.Scripts.Utilities.Rows
             if (pos.y == _outterRowY)
             {
                 var enemyPrefab = PrioritizeObjs(gameObjs);
-                EnemenyInstantiate(pos, Constants.Names.RowOne, enemyPrefab);
+                EnemenyInstantiate(pos, enemyPrefab);
             }
             //SecondRow
             if (pos.y == _secondRowY)
             {
                 var enemyPrefab = PrioritizeObjs(gameObjs);
-                EnemenyInstantiate(pos, Constants.Names.RowTwo, enemyPrefab);
+                EnemenyInstantiate(pos, enemyPrefab);
             }
             //ThirdRow
             if (pos.y == _middleRowY)
             {
                 var enemyPrefab = PrioritizeObjs(gameObjs);
-                EnemenyInstantiate(pos, Constants.Names.RowThree, enemyPrefab);
+                EnemenyInstantiate(pos, enemyPrefab);
             }
             //FourthRow
             if (pos.y == -_secondRowY)
             {
                 var enemyPrefab = PrioritizeObjs(gameObjs);
-                EnemenyInstantiate(pos, Constants.Names.RowFour, enemyPrefab);
+                EnemenyInstantiate(pos, enemyPrefab);
             }
             //FifthRow
             if (pos.y == -_outterRowY)
@@ -72,21 +72,21 @@ namespace Assets.Scripts.Utilities.Rows
                 var bottomObjs = gameObjs;
                 var sendObjs = bottomObjs.Where((source, index) => index != 4).ToArray();
                 var enemyPrefab = sendObjs[Random.Range(0, sendObjs.Length)];
-                EnemenyInstantiate(pos, Constants.Names.RowFive, enemyPrefab);
+                EnemenyInstantiate(pos, enemyPrefab);
             }
         }
 
-        private void EnemenyInstantiate(Vector2 pos, string row, GameObject enemyPrefab)
+        private void EnemenyInstantiate(Vector2 pos, GameObject enemyPrefab)
         {
             newPos = new Vector2(pos.x, pos.y - 0.71f);
-            if (enemyPrefab.name != Constants.Enemies.BaddyBigBoy + "(Clone)")
+            if (enemyPrefab.name == Constants.Enemies.BaddyBigBoy)
             {
-                Instantiate(enemyPrefab, pos, transform.rotation);
+                Instantiate(enemyPrefab, newPos, transform.rotation);
             }
             else
             {
-                Instantiate(enemyPrefab, newPos, transform.rotation);               
-            }           
+                Instantiate(enemyPrefab, pos, transform.rotation);
+            }
         }
 
         private GameObject PrioritizeObjs(GameObject[] objArray)
@@ -107,22 +107,22 @@ namespace Assets.Scripts.Utilities.Rows
                 return objArray[0];
             }
             //BaddyIball
-            if (range >= 51 && range <= 60)
+            if (range >= 71 && range <= 80)
             {
                 return objArray[1];
             }
             //BaddySmallBoy
-            if (range >= 61 && range <= 70)
+            if (range >= 81 && range <= 90)
             {
                 return objArray[3];
             }
             //BaddyBigBoy
-            if (range >= 80 && range <= 90)
+            if (range >= 91 && range <= 95)
             {
                 return objArray[4];
             }
             //PowerUP
-            if (range >= 95 && range <= 100)
+            if (range >= 96 && range <= 100)
             {
                 return objArray[5];
             }
