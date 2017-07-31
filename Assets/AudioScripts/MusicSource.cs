@@ -127,10 +127,10 @@ public class MusicSource : MonoBehaviour
         bass = audio[2];
         drums = audio[3];
 
-        pad.volume = .3f;
-        lead.volume = .3f;
-        bass.volume = .3f;
-        drums.volume = .3f;
+        pad.volume = .45f;
+        lead.volume = .45f;
+        bass.volume = .45f;
+        drums.volume = .45f;
 
         lead.mute = !lead.mute;
         bass.mute = !bass.mute;

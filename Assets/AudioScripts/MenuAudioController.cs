@@ -16,7 +16,7 @@ public class MenuAudioController : MonoBehaviour {
         intro = audio[0];
         select = audio[1];
 
-        intro.Play();
+        //intro.Play();
     }
 	
 	// Update is called once per frame
@@ -31,7 +31,7 @@ public class MenuAudioController : MonoBehaviour {
 
     IEnumerator WaitForNextScene()
     {
-        intro.Stop();
+        //intro.Stop();
         select.Play();
         Debug.Log("Waiting");
         yield return new WaitForSeconds(2f);

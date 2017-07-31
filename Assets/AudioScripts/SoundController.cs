@@ -27,7 +27,11 @@ public class SoundController : MonoBehaviour {
 
             StartingVolume();
 
-        }
+        GameObject GameOverAudio = GameObject.Find("GameOverAudio");
+        GameOverAudio.SetActive(false);
+        Destroy(GameOverAudio);
+
+    }
     
 	
 	// Update is called once per frame

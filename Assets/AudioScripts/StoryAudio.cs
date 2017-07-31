@@ -20,6 +20,7 @@ public class StoryAudio : MonoBehaviour {
         Select = audio[2];
         
         Select.volume = .3f;
+        RobotVoice.volume = .5f;
         DontDestroyOnLoad(this);
     }
 	
