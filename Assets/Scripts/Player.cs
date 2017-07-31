@@ -78,6 +78,7 @@ public class Player : MonoBehaviour {
         _waitForNext -= Time.deltaTime;
         if (_keyShoot() && _waitForNext <= 0)
         {
+            SoundController.playerShoot.Play();
             health.CurrentVal -= 10;
             var pos = new Vector2(transform.position.x + 1f, transform.position.y - 0.1f);
             Instantiate(bullet, pos, transform.rotation);

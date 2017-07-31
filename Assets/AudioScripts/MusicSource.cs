@@ -14,7 +14,9 @@ public class MusicSource : MonoBehaviour
     void Awake ()
     {
         InitializeAudio();
-	}
+
+        DontDestroyOnLoad(this);
+    }
 	
 	// Update is called once per frame
 	void Update ()

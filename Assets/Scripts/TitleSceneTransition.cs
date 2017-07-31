@@ -19,6 +19,7 @@ public class TitleSceneTransition : MonoBehaviour {
         ZMLogo = Instantiate(Resources.Load("Title/ZMLogo")) as GameObject;
         StartCoroutine(WaitForInput());
         StartCoroutine(ShowTitleCard());
+        
 
 	}
 
