@@ -16,7 +16,8 @@ public class StoryScroll : MonoBehaviour {
     void Start () {
         StartCoroutine(WaitForInput());
         StartCoroutine(StartScroll());
-	}
+        StartCoroutine(WaitForNextScene());
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -27,7 +28,6 @@ public class StoryScroll : MonoBehaviour {
             if (Input.GetKeyDown(KeyCode.Return))
             {
                 ready = false;
-                //StartCoroutine(WaitForNextScene());
                 NextScene();
             }
         }
@@ -46,17 +46,26 @@ public class StoryScroll : MonoBehaviour {
         SceneManager.LoadScene("MenuPause");
     }
 
+
     IEnumerator WaitForNextScene()
     {
-        StoryAudio.SnoopSong.Stop();
-        StoryAudio.RobotVoice.Stop();
-        StoryAudio.Select.Play();
-        scroll = false;
         Debug.Log("Waiting");
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(52f);
         Debug.Log("Loading Scene");
         SceneManager.LoadScene("MenuPause");
     }
+
+    //IEnumerator WaitForNextScene()
+    //{
+    //    StoryAudio.SnoopSong.Stop();
+    //    StoryAudio.RobotVoice.Stop();
+    //    StoryAudio.Select.Play();
+    //    scroll = false;
+    //    Debug.Log("Waiting");
+    //    yield return new WaitForSeconds(3f);
+    //    Debug.Log("Loading Scene");
+    //    SceneManager.LoadScene("MenuPause");
+    //}
 
     IEnumerator WaitForInput()
     {
