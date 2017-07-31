@@ -15,11 +15,12 @@ namespace Assets.Scripts.Utilities.Rows
         private float[] rowNums;
 
         //Time to spawn
-        public float WaitForNext = 1;
+        public float WaitForNext = 5f;
 
         private float CountDown;
 
         private Vector2 pos;
+        private Vector2 newPos;
 
         void Start()
         {
@@ -27,8 +28,8 @@ namespace Assets.Scripts.Utilities.Rows
         }
 
         void Update()
-        {
-            CountDown -= Time.deltaTime;
+        {          
+            CountDown -= Time.deltaTime * 2;
 
             if (CountDown <= 0)
             {
@@ -77,30 +78,33 @@ namespace Assets.Scripts.Utilities.Rows
 
         private void EnemenyInstantiate(Vector2 pos, string row, GameObject enemyPrefab)
         {
-            GameObject newObj;
-            if (!enemyPrefab.name.Contains(Constants.Enemies.BaddyBigBoy))
+            newPos = new Vector2(pos.x, pos.y - 0.71f);
+            if (enemyPrefab.name != Constants.Enemies.BaddyBigBoy + "(Clone)")
             {
-                newObj = Instantiate(enemyPrefab, pos, transform.rotation);
+                Instantiate(enemyPrefab, pos, transform.rotation);
             }
             else
             {
-                var newPos = new Vector2(pos.x, pos.y - 0.71f);
-                newObj = Instantiate(enemyPrefab, newPos, transform.rotation);
+                Instantiate(enemyPrefab, newPos, transform.rotation);               
             }           
         }
 
         private GameObject PrioritizeObjs(GameObject[] objArray)
         {
             var range = Random.Range(0,100);
-            //BaddyBoner
-            if (range >= 0 && range <= 30)
-            {
-                return objArray[0];
-            }
-            //BaddyRoid
-            if (range >= 31 && range <= 50)
+            //Roid
+            if (range >= 0 && range <= 50)
             {
                 return objArray[2];
+            }
+            //boner
+            if (GameObject.Find(Constants.Enemies.BaddyBoner + "(Clone)") != null && range >= 51 && range <= 70)
+            {
+                return objArray[2];
+            }
+            else if(range >= 51 && range <= 70)
+            {
+                return objArray[0];
             }
             //BaddyIball
             if (range >= 51 && range <= 60)
@@ -113,16 +117,16 @@ namespace Assets.Scripts.Utilities.Rows
                 return objArray[3];
             }
             //BaddyBigBoy
-            if (range >= 71 && range <= 80)
+            if (range >= 80 && range <= 90)
             {
                 return objArray[4];
             }
             //PowerUP
-            if (range >= 81 && range <= 100)
+            if (range >= 95 && range <= 100)
             {
                 return objArray[5];
             }
-            return null;
+            return objArray[2];
         }
     }
 }
