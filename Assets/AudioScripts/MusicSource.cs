@@ -61,7 +61,55 @@ public class MusicSource : MonoBehaviour
         {
             PitchShiftUp();
         }
+        if (Input.GetKeyDown(KeyCode.F11))
+        {
+            AddStem();
+        }
+        if (Input.GetKeyDown(KeyCode.F12))
+        {
+            RemoveStem();
+        }
 
+    }
+
+    public void AddStem()
+    {
+        if ((pad.mute == false) && (lead.mute == true) && (drums.mute == true) && (bass.mute == true))
+        {
+            lead.mute = false;
+            Debug.Log("Unmuted Lead.");
+        }
+        else if ((pad.mute == false) && (lead.mute == false) && (drums.mute == true) && (bass.mute == true))
+        {
+            drums.mute = false;
+            Debug.Log("Unmuted Drums.");
+        }
+        else if ((pad.mute == false) && (lead.mute == false) && (drums.mute == false) && (bass.mute == true))
+        {
+            bass.mute = false;
+            Debug.Log("Unmuted Bass.");
+        }
+        else { Debug.Log("All stems are active.");}
+    }
+
+    public void RemoveStem()
+    {
+        if ((pad.mute == false) && (lead.mute == false) && (drums.mute == false) && (bass.mute == false))
+        {
+            bass.mute = true;
+            Debug.Log("Muted Bass.");
+        }
+        else if ((pad.mute == false) && (lead.mute == false) && (drums.mute == false) && (bass.mute == true))
+        {
+            drums.mute = true;
+            Debug.Log("Muted Drums.");
+        }
+        else if ((pad.mute == false) && (lead.mute == false) && (drums.mute == true) && (bass.mute == true))
+        {
+            lead.mute = true;
+            Debug.Log("Muted Lead.");
+        }
+        else { Debug.Log("Cannot remove pad."); }
     }
 
     public void InitializeAudio()
@@ -72,10 +120,10 @@ public class MusicSource : MonoBehaviour
         bass = audio[2];
         drums = audio[3];
 
-        pad.volume = .2f;
-        lead.volume = .2f;
-        bass.volume = .2f;
-        drums.volume = .2f;
+        pad.volume = .3f;
+        lead.volume = .3f;
+        bass.volume = .3f;
+        drums.volume = .3f;
 
         lead.mute = !lead.mute;
         bass.mute = !bass.mute;
