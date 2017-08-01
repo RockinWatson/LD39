@@ -33,9 +33,7 @@ public class GameOverAudio : MonoBehaviour {
 	void Update () {
 
         if (Input.GetKeyDown(KeyCode.Return))
-
         {
-
             Scene menu = SceneManager.GetActiveScene();
             string sceneName = menu.name;
 
@@ -50,11 +48,11 @@ public class GameOverAudio : MonoBehaviour {
                 selectUsed = true;
                 SceneManager.LoadScene("MenuPause_Restart");
             }
-
         }
-                             
 
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }                         
     }
-
-
 }

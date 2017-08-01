@@ -8,6 +8,7 @@ public class TitleSceneTransition : MonoBehaviour {
     private bool ready;
 
     private bool _enterKey() { return Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown("enter"); }
+    private bool _escape() { return Input.GetKeyDown(KeyCode.Escape); }
 
     [SerializeField]
     private float InputDelay = 6f;

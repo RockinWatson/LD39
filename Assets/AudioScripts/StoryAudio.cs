@@ -58,6 +58,4 @@ public class StoryAudio : MonoBehaviour {
         GameObject audioController = GameObject.Find("AudioController");
         audioController.SetActive(false);
     }
-
-
 }
