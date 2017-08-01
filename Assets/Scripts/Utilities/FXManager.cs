@@ -25,21 +25,11 @@ namespace Assets.Scripts.Utilities
         private void Update()
         {          
             if (GameObject.Find("Player") == null)
-            {
-                var lastScore = dbfunc.GetScore();
+            {                
                 nextSceneTimer -= Time.deltaTime;
                 if (nextSceneTimer <= 0)
-                {
-                    if (Constants.Globals.Score > lastScore)
-                    {
-                        dbfunc.UpdateScore();
-                        SceneManager.LoadScene("GameOverHighScore");
-                    }
-                    else
-                    {
+                {  
                         SceneManager.LoadScene("GameOver");
-                    }
-                    
                 }
             }
         }

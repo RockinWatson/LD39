@@ -25,7 +25,7 @@ public class GameOverAudio : MonoBehaviour {
         Intro.Play();
 
         musicController = GameObject.Find("MusicController");
-        musicController.SetActive(false);
+        //musicController.SetActive(false);
         Destroy(musicController);
     }
 	
