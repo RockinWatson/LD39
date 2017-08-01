@@ -10,6 +10,7 @@ public class MusicSource : MonoBehaviour
     public static AudioSource lead;
     public static AudioSource bass;
     public static AudioSource drums;
+    public static AudioSource song;
 
     // Use this for initialization
     void Awake ()
@@ -126,12 +127,15 @@ public class MusicSource : MonoBehaviour
         lead = audio[1];
         bass = audio[2];
         drums = audio[3];
+        song = audio[4];
 
         pad.volume = .45f;
         lead.volume = .45f;
         bass.volume = .45f;
         drums.volume = .45f;
+        song.volume = .45f;
 
+        pad.mute = !pad.mute;
         lead.mute = !lead.mute;
         bass.mute = !bass.mute;
         drums.mute = !drums.mute;
