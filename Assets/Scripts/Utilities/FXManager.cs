@@ -38,8 +38,7 @@ namespace Assets.Scripts.Utilities
                     else
                     {
                         SceneManager.LoadScene("GameOver");
-                    }
-                    
+                    }                  
                 }
             }
         }

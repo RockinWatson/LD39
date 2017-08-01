@@ -106,7 +106,7 @@ public class Player : MonoBehaviour {
         if (health.CurrentVal <= 0)
         {
             FXManager.Get().SpawnExploder(transform.position);
-            Destroy(gameObject);       
+            Destroy(gameObject);
         }
     }
 

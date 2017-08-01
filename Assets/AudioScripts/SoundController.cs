@@ -28,7 +28,7 @@ public class SoundController : MonoBehaviour {
             StartingVolume();
 
             GameObject GameOverAudio = GameObject.Find("GameOverAudio");
-            GameOverAudio.SetActive(false);
+            //GameOverAudio.SetActive(false);
             Destroy(GameOverAudio);
     }
     
